@@ -1,12 +1,10 @@
 /* credits to the vencord css snippet channels for most of the code. */
 /* I DO NOT OWN ANY OF THIS CODE, THIS IS JUST A BUNDLE OF CSS SNIPPETS FROM DISCORD.GG/VENCORD. */
 
-@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
-@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
 @import url('https://nyri4.github.io/Discolored/main.css');
-
-/* Any custom CSS below here */
-
+@import url('https://raw.githubusercontent.com/Vortex-Chaos/Discord-Connections-Glow/main/Code.css');
+@import url('https://raw.githubusercontent.com/Panniku/vc-snippets/main/BetterSpotifyPlayer.css');
+@import url('https://ukrioo.github.io/cssCord/Other/TabCord.css');
 @import url('https://s-k-y-l-i.github.io/discord-themes/Theme%20code/transparent-popups.css');
 
 /* Config */
@@ -26,8 +24,6 @@
     scrollbar-width: unset !important;
     scrollbar-color: unset !important;
 }
-
-@import url(https://ukrioo.github.io/cssCord/Other/TabCord.css);
 
 .buttons_ce5b56 {
     margin: 6px 6px 6px auto !important;
@@ -72,9 +68,6 @@
     background-image: url('https://media.discordapp.net/stickers/1217112512374505613.png');
     background-size: cover;
 }
-
-@import url('https://raw.githubusercontent.com/Vortex-Chaos/Discord-Connections-Glow/main/Code.css');
-@import url('https://raw.githubusercontent.com/Panniku/vc-snippets/main/BetterSpotifyPlayer.css');
 
 .messagesWrapper_ea2b0b {
     overflow: hidden;
