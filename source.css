@@ -5,7 +5,7 @@
 @import url('https://raw.githubusercontent.com/Vortex-Chaos/Discord-Connections-Glow/main/Code.css');
 @import url('https://raw.githubusercontent.com/Panniku/vc-snippets/main/BetterSpotifyPlayer.css');
 @import url('https://s-k-y-l-i.github.io/discord-themes/Theme%20code/transparent-popups.css');
-@import url('https://refact0r.github.io/midnight-discord/flavors/midnight-vencord.theme.css')
+@import url('https://ukrioo.github.io/cssCord/Other/TabCord.css');
 
 /* Config */
 :root{
@@ -132,10 +132,3 @@ button.button_ae40a4 /* make user panel buttons round */ {
     transform: scale(1.05);
 }
 
-html {
-    cursor: var(--cursor), default;
-}
-
-:root {
-    --cursor: url('https://schizophrenic.lol/assets/shiggy.cur');
-}
