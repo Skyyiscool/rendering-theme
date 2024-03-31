@@ -131,3 +131,11 @@ button.button_ae40a4 /* make user panel buttons round */ {
     margin-left: 18px;
     transform: scale(1.05);
 }
+
+html {
+    cursor: var(--cursor), default;
+}
+
+:root {
+    --cursor: url('https://schizophrenic.lol/assets/shiggy.cur');
+}
