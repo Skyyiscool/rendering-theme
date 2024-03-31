@@ -4,9 +4,8 @@
 @import url('https://nyri4.github.io/Discolored/main.css');
 @import url('https://raw.githubusercontent.com/Vortex-Chaos/Discord-Connections-Glow/main/Code.css');
 @import url('https://raw.githubusercontent.com/Panniku/vc-snippets/main/BetterSpotifyPlayer.css');
-@import url('https://s-k-y-l-i.github.io/discord-themes/Theme%20code/transparent-popups.css');
 @import url('https://ukrioo.github.io/cssCord/Other/TabCord.css');
-
+@import url('https://s-k-y-l-i.github.io/discord-themes/Theme%20code/transparent-popups.css');
 /* Config */
 :root{
     --blur-popup: 40px; /*Popup blur size*/
